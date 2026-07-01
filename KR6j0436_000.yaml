@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0436/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂瑜伽降三世成就極深密門
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1209.xml
+    old_id: T21n1209
+hash: sha256:af886f9fc558ca3f7bee241e24823c180e7ad1295683b150ef2b7fc7a1d21523

@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0436/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0436/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂瑜伽降三世成就極深密門
+  identifiers:
+    krp: KR6j0436
+    cbeta: T21n1209
+    cbeta_old_id: T21n1209
+    authorityid: CA0001644
+    json_key: T1209
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1209.xml
+    old_id: T21n1209
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0436_000-T.yaml, hash: 'sha256:af886f9fc558ca3f7bee241e24823c180e7ad1295683b150ef2b7fc7a1d21523'}
+  - {seq: 1, filename: KR6j0436_001-T.yaml, hash: 'sha256:4b1cb0bb1aeb07507e8181e2774122bfe9be0cb953765277b2339026cb3e3a50'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0436_000-T.markers.yaml, hash: 'sha256:d76e1c0be4314faa4efcc6a80d68b9d8048fcc3a4943b38a5daf474ca948e0f2'}
+  - {seq: 1, role: markers, filename: assets/KR6j0436_001-T.markers.yaml, hash: 'sha256:e5371c6fa2a64fa35c88b808624a6fcd243c5add25bf2a0fd52ca4dc2ff6c8ac'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0436_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1187
+  label: '金剛頂瑜伽降三世成就極深
+
+    密門一卷'
+  type: juan
+  level: 1
+hash: sha256:47c6e712cce84fc72c0ddf0729f6099b8a918abbb2a650f213b054bb78761565
