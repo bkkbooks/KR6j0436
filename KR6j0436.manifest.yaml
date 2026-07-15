@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0436/v1
 canonical_location: https://kanripo.org/bkk/KR6j0436/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金剛頂瑜伽降三世成就極深密門
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0436_000.yaml, hash: 'sha256:af886f9fc558ca3f7bee241e24823c180e7ad1295683b150ef2b7fc7a1d21523'}
-  - {seq: 1, filename: KR6j0436_001.yaml, hash: 'sha256:4b1cb0bb1aeb07507e8181e2774122bfe9be0cb953765277b2339026cb3e3a50'}
+  - {seq: 1, filename: KR6j0436_001.yaml, hash: 'sha256:46f56b2ddb99d3326012a59ad711eef1843f2a302b4cb87cfc46ed42d9f652fa'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0436_000.markers.yaml, hash: 'sha256:cba1e6a3674e1da10b2812906abdfe2375e9c691a7981f5e5bb2635d2ea01fc1'}
-  - {seq: 1, role: markers, filename: assets/KR6j0436_001.markers.yaml, hash: 'sha256:dbc980c041ea6f8eefd0893460c1f0f7f73ae2848552478d9fbffc1a78470902'}
+  - {seq: 1, role: markers, filename: assets/KR6j0436_001.markers.yaml, hash: 'sha256:2b0afcb869ad6da7d9371479205e720b77f28ec8041932f0d10decabd1c66c31'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,4 +48,7 @@ table_of_contents:
     密門一卷'
   type: juan
   level: 1
-hash: sha256:c70f2922c6906d3e9b5e8d9c93df36039a55f7a53afe7e5bf86159ca84f374f9
+hash: sha256:f0d651bd4807de5c246a95a54c3617323bf8597dc30d9718be27b3feea56df4d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
